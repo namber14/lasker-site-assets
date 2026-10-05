@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moshelasker//restart-webinar//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:restart-webinar-20261013@moshelasker.ravpage.co.il
+DTSTAMP:20261005T130000Z
+DTSTART:20261013T173000Z
+DTEND:20261013T190000Z
+SUMMARY:מעסק שמתנהל מהבטן – לעסק שסוגר יותר (משדר אונליין עם משה לסקר)
+DESCRIPTION:קישור הזום נשלח בקבוצת הוואטסאפ של המשדר: https://chat.whatsapp.com/Iw36VkaZWzo6wi0xxwJ2Iu\nהמשדר לייב בלבד - בלי הקלטה.
+LOCATION:זום
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:המשדר מתחיל בעוד חצי שעה
+END:VALARM
+END:VEVENT
+END:VCALENDAR
